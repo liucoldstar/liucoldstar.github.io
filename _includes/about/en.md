@@ -4,7 +4,7 @@ Hi, I am Andy Liu (Liu, Jie), a senior application engineer at [Texas Instrument
 
 I got my bachelor's degree at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University) and master's degree at [Tsinghua Univeristy](https://en.wikipedia.org/wiki/Tsinghua_University).
 
-##### My Favirote RTOS Spectrum
+##### My Favorite RTOS Spectrum
 > __Left-right__ is how much I prefer it. 
 
 |     | 💔️           | ❤️ ️                 | ❤️❤️ ️                     | ❤️❤️❤️ ️               |
