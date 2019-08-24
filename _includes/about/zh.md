@@ -1,12 +1,12 @@
 > 离开世界之前，一切都是过程。
 
-Hi，我是刘杰（Andy Liu），[Texas Instruments](http://www.ti.com/) 应用工程师。业余爱好包括各种实时操作系统（Real-Time Operating System）和嵌入式网络协议栈等。
+Hi，我是刘杰（Andy Liu），[Texas Instruments](http://www.ti.com/) 应用工程师。业余爱好包括Linux内核驱动开发，各种实时操作系统（Real-Time Operating System）和嵌入式网络协议栈等。
 
 我本科在浙江大学完成，专业是生物医学工程（Biomedical Engineering），硕士在清华大学完成，专业是自动化，研究方向是机器学习和人工智能。
 
 目前，我正在写一本关于实时操作系统和嵌入式网络协议栈的书，主要介绍如何将一个轻量级的TCP/IP网络协议栈lwip移植到多种不同ARM平台（比如ARM、ARM11、Cortex A5和Cortex A8）和实习操作系统（比如RTEMS, uC/OS和eCos)。
 
-##### 实时操作系统倾向表
+##### 我喜爱的实时操作系统
 
 > __从左到右__ 为喜欢程度
 
@@ -14,7 +14,7 @@ Hi，我是刘杰（Andy Liu），[Texas Instruments](http://www.ti.com/) 应用
 | --- | ------------- | -------------------- | -------------------------- | ---------------------- |
 | 😅  | `RTX`         | `NuttX`  `RT-Thread` | `FreeRTOS` `SylixOS` `uC/OS`  | `eCos` `RTEMS`    |
 
-##### 编程语言倾向表
+##### 我擅长的编程语言
 
 > __从左到右__ 为喜欢程度
 
