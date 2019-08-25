@@ -31,3 +31,4 @@ During my study, I soon realized that it should be possible to port lwIP to diff
 | Atmel SAMA5D3               | ARM Cortex-A5 | ports on µC/OS and RTEMS are done    |
 | TI/Sitara AM335x            | ARM Cortex-A8 | ports on µC/OS and RTEMS are ongoing |
 | Xilinx ZYNQ                 | ARM Cortex-A9 | TBD                                  |
+| STMicro STMF407             | ARM Cortex-M4 | TBD                                  |
