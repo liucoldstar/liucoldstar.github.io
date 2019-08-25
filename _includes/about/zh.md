@@ -4,7 +4,7 @@ Hi，我是刘杰（Andy Liu），[Texas Instruments](http://www.ti.com/) 应用
 
 我本科在浙江大学完成，专业是生物医学工程（Biomedical Engineering），硕士在清华大学完成，专业是自动化，研究方向是机器学习和人工智能。
 
-目前，我正在写一本关于实时操作系统和嵌入式网络协议栈的书，主要介绍如何将一个轻量级的TCP/IP网络协议栈lwip移植到多种不同ARM平台（比如ARM9、ARM11、ARM Cortex-A5和ARM Cortex-A8）和实习操作系统（例如RTEMS, uC/OS和eCos)。
+目前，我正在写一本关于实时操作系统和嵌入式网络协议栈的书，主要介绍如何将一个轻量级的TCP/IP网络协议栈lwIP移植到多种不同ARM平台（比如ARM9、ARM11、ARM Cortex-A5和ARM Cortex-A8）和实习操作系统（例如RTEMS, µC/OS和eCos)。
 
 ##### 我喜爱的实时操作系统
 
@@ -12,7 +12,7 @@ Hi，我是刘杰（Andy Liu），[Texas Instruments](http://www.ti.com/) 应用
 
 |     | 💔️           | ❤️ ️                 | ❤️❤️ ️                     | ❤️❤️❤️ ️               |
 | --- | ------------- | -------------------- | -------------------------- | ---------------------- |
-| 😅  | `RTX`         | `NuttX`  `RT-Thread` | `FreeRTOS` `SylixOS` `uC/OS`  | `eCos` `RTEMS`    |
+| 😅  | `RTX`         | `NuttX`  `RT-Thread` | `FreeRTOS` `SylixOS` `µC/OS`  | `eCos` `RTEMS`    |
 
 ##### 我擅长的编程语言
 
