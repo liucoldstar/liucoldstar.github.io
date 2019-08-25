@@ -23,12 +23,14 @@ I have been studying [**RTEMS (Real-Time Executive for Multiprocessor Systems)**
 During my study, I soon realized that it should be possible to port lwIP to different real-time operating systems in a unified way, if I use the basic elements that they normally offer (for example, semaphore, mutex and timer). To prove my concept, I first ported lwIP to µC/OS due to its simplicity and availability of exiting code, then worked out some quite stable code. After that, I reused the same code and made a few necessary changes due to the different APIs these two operating systems provide. My code has been carefully verified on several different microcontroller platforms. The table below shows my achievements up to now.
 
 
-| Microcontroller / Processor | CPU Core      | Status                               |
-|-----------------------------|---------------|--------------------------------------|
-| Samsung S3C2440             | ARM920T       | ports on µC/OS and RTEMS are done    |
-| Atmel SAM9X35               | ARM926EJS     | ports on µC/OS and RTEMS are done    |
-| Samsung S3C6410             | ARM1176JZF-S  | ports on µC/OS and RTEMS are ongoing |
-| Atmel SAMA5D3               | ARM Cortex-A5 | ports on µC/OS and RTEMS are done    |
-| TI/Sitara AM335x            | ARM Cortex-A8 | ports on µC/OS and RTEMS are ongoing |
-| Xilinx ZYNQ                 | ARM Cortex-A9 | TBD                                  |
-| STMicro STMF407             | ARM Cortex-M4 | TBD                                  |
+| Microcontroller / Processor | CPU Core       | Status                               |
+|-----------------------------|----------------|--------------------------------------|
+| Samsung S3C2440             | ARM920T        | ports on µC/OS and RTEMS are done    |
+| Atmel SAM9X35               | ARM926EJS      | ports on µC/OS and RTEMS are done    |
+| Samsung S3C2451             | ARM926EJS      | ports on µC/OS and RTEMS are ongoing |
+| Samsung S3C6410             | ARM1176JZF-S   | ports on µC/OS and RTEMS are ongoing |
+| Atmel SAMA5D3               | ARM Cortex-A5  | ports on µC/OS and RTEMS are done    |
+| Broadcom BCM2836            | ARM Cortex-A7  | TBD                                  |
+| TI/Sitara AM335x            | ARM Cortex-A8  | ports on µC/OS and RTEMS are ongoing |
+| Xilinx ZYNQ                 | ARM Cortex-A9  | TBD                                  |
+| STMicro STMF407             | ARM Cortex-M4  | TBD                                  |
