@@ -27,6 +27,7 @@ During my study, I soon realized that it should be possible to port lwIP to diff
 |-----------------------------|---------------|--------------------------------------|
 | Samsung S3C2440             | ARM920T       | ports on µC/OS and RTEMS are done    |
 | Atmel SAM9X35               | ARM926EJS     | ports on µC/OS and RTEMS are done    |
+| Samsung S3C6410             | ARM1176JZF-S  | ports on µC/OS and RTEMS are ongoing |
 | Atmel SAMA5D3               | ARM Cortex-A5 | ports on µC/OS and RTEMS are done    |
 | TI/Sitara AM335x            | ARM Cortex-A8 | ports on µC/OS and RTEMS are ongoing |
 | Xilinx ZYNQ                 | ARM Cortex-A9 | TBD                                  |
