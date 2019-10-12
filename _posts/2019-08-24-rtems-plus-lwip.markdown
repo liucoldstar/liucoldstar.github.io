@@ -10,6 +10,8 @@ tags:
   - RTEMS
   - lwIP
   - µC/OS
+  - Raspberry Pi
+  - BeagleBone Black
 ---
 
 > This document is not completed and will be updated anytime.
@@ -30,7 +32,7 @@ During my study, I soon realized that it should be possible to port lwIP to diff
 | Samsung S3C2451             | ARM926EJS      | ports on µC/OS and RTEMS are ongoing |
 | Samsung S3C6410             | ARM1176JZF-S   | ports on µC/OS and RTEMS are ongoing |
 | Atmel SAMA5D3               | ARM Cortex-A5  | ports on µC/OS and RTEMS are done    |
-| Broadcom BCM2836            | ARM Cortex-A7  | TBD                                  |
-| TI/Sitara AM335x            | ARM Cortex-A8  | ports on µC/OS and RTEMS are ongoing |
+| Broadcom BCM2835            | ARM1176JZF-S   | ports on µC/OS is ongoing            |
+| TI/Sitara AM335x            | ARM Cortex-A8  | ports on µC/OS is done               |
 | Xilinx ZYNQ                 | ARM Cortex-A9  | TBD                                  |
 | STMicro STMF407             | ARM Cortex-M4  | TBD                                  |
